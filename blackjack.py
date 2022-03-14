@@ -261,7 +261,7 @@ def blackjack():
 
             # Exit game loop if players quit
             break
-
+        print("Thanks for playing!")
         # Quit game
         break
 
